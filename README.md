@@ -64,5 +64,5 @@ This project is licensed under the MIT License – see the [LICENSE](LICENSE) fi
 - [13.41 MB](https://github.com/mahdinarimani0010-sketch/my-workflow/tree/main/downloads/mhrv-rs-android-arm64-v8a-v1.9.14)
 ---
 ## Latest Downloads
-- [0 MB](https://github.com/mahdinarimani0010-sketch/my-workflow/tree/main/downloads/279087340582892151)
+- [19.24 MB](https://github.com/mahdinarimani0010-sketch/my-workflow/tree/main/downloads/237179804312613772)
 ---
